@@ -112,4 +112,5 @@ Score: 0  Solution :  Artificial Intelligence<br>
 
 ### Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0fdde4de-015d-469a-aa41-e673367d5362)
+
