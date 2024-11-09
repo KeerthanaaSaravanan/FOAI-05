@@ -1,6 +1,8 @@
-<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: KEERTHANA S </h3>
-<h3>Register Number: 212223240070 </h3>
+<H1 ALIGN =CENTER>Implement Simple Hill Climbing Algorithm</H1>
+<H3>NAME: KEERTHANA S</H3>
+<H3>REGISTER NO.: 212223240070</H3>
+<H3>EX. NO.5</H3>
+<H3>DATE:</H3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
